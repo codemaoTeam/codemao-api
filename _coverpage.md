@@ -1,4 +1,4 @@
-![logo](https://static.codemao.cn/community/shequ_logo.png)
+![logo](/static/bcm_logo.png)
 
 # Codemao API
 
