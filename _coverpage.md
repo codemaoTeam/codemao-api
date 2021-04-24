@@ -1,0 +1,12 @@
+![logo](https://static.codemao.cn/community/shequ_logo.png)
+
+# Codemao API
+
+> 编程猫社区 API 文档
+
+- 开发团队强大
+- 易于学习，快速上手
+- 更新速度快，随时适配接口的最新状态
+
+[GitHub](https://github.com/docsifyjs/docsify/)
+[开始使用](#main)
