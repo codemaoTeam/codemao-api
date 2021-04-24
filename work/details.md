@@ -1,14 +1,10 @@
 # 个人信息
 
+!> 这个 API 文档正在编写中，请勿使用
+
 > 获取个人信息  
 > `/creation-tools/v1/works/<work_id>` `GET`  
 
-
-```java
-public class Demo {
-    private int age;
-}
-```
 
 ## 返回内容
 |         key          |      value       |   type   |

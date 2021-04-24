@@ -8,5 +8,5 @@
 - 易于学习，快速上手
 - 更新速度快，随时适配接口的最新状态
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[Git仓库](https://jddbjd.coding.net/public/codemao/Codemao_API/git/files)
 [开始使用](#main)
