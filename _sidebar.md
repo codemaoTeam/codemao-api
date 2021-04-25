@@ -14,3 +14,6 @@
   
 * 作品
     * [作品信息](/work/details.md)
+
+* 工作室
+    * [工作室信息](/workshop/details.md)
