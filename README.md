@@ -25,7 +25,7 @@ graph LR;
 
 
 ## 加入我们
-如果你想参与本文档的开发与维护，请[发送邮件](mailto:jddbjd@qq.com)到`jddbjd@qq.com`，目前，已经有以下开发者加入：
+如果你想参与本文档的开发与维护，请[发送邮件](mailto:admin@jddbjd.top)到`admin@jddbjd.top`，目前，已经有以下开发者加入：
 - [简单得不简单](https://shequ.codemao.cn/user/2776410)
 
 
@@ -35,4 +35,4 @@ graph LR;
 - 可能遗漏掉了某些 API
 - 文档本身可能存在一些错误
 
-您的任何宝贵意见都可以通过[邮件](mailto:jddbjd@qq.com)反馈
+您的任何宝贵意见都可以通过[邮件](mailto:admin@jddbjd.top)反馈
