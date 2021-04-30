@@ -4,6 +4,7 @@
     * [消息](/user/messages.md)
     * [个人信息（details）](/user/details.md)
     * [个人信息（info）](/user/info.md)
+    * [其他用户信息](/user/user_details.md)
     * [荣誉信息](/user/honor.md)
     * [作品列表](/user/work-list.md)
     * [收藏作品列表](/user/collection-work-list.md)
