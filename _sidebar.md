@@ -22,4 +22,6 @@
     * [作品信息](/work/details.md)
 
 * 工作室
+    * [创建工作室](/workshop/create.md)
+    * [解散工作室](/workshop/dissolve.md)
     * [工作室信息](/workshop/details.md)
