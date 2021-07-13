@@ -1,27 +1,33 @@
-* 用户
-    * [登录](/user/login.md)
-    * 查看
-    * [消息](/user/messages.md)
-    * [个人信息（details）](/user/details.md)
-    * [个人信息（info）](/user/info.md)
-    * [其他用户信息](/user/user_details.md)
-    * [荣誉信息](/user/honor.md)
-    * [作品列表](/user/work-list.md)
-    * [收藏作品列表](/user/collection-work-list.md)
-    * [关注列表](/user/follow-list.md)
-    * [粉丝列表](/user/fan-list.md)
-    * 修改
-    * [修改用户信息](/user/update_info.md)
-    * [修改用户密码](/user/update_password.md)
-    
-* 社区
-    * [滑块](/community/banners.md)
-    * [举报原因](/community/report_reasons.md)
-  
-* 作品
-    * [作品信息](/work/details.md)
+<h4 style="padding: 10px 30px; background-color:#bff; color:red">请勿利用 API 进行不正当的行为！！</h3>
 
-* 工作室
-    * [创建工作室](/workshop/create.md)
-    * [解散工作室](/workshop/dissolve.md)
-    * [工作室信息](/workshop/details.md)
+- 用户
+  - [登录](/user/login.md)
+  - 查看
+  - [消息](/user/messages.md)
+  - [个人信息（details）](/user/details.md)
+  - [个人信息（info）](/user/info.md)
+  - [其他用户信息](/user/user_details.md)
+  - [荣誉信息](/user/honor.md)
+  - [作品列表](/user/work-list.md)
+  - [收藏作品列表](/user/collection-work-list.md)
+  - [关注列表](/user/follow-list.md)
+  - [粉丝列表](/user/fan-list.md)
+  - 修改
+  - [修改用户信息](/user/update_info.md)
+  - [修改用户密码](/user/update_password.md)
+- 社区
+  - [滑块](/community/banners.md)
+  - [举报原因](/community/report_reasons.md)
+- 作品
+  - [作品信息](/work/details.md)
+  - 修改
+  - [创建作品](/work/create.md)
+  - [发布作品](/work/publish.md)
+  - [取消发布作品](/work/unpublish.md)
+  - [删除作品](/work/delete.md)
+- 帖子
+  - [帖子信息](/forum/details.md)
+- 工作室
+  - [创建工作室](/workshop/create.md)
+  - [解散工作室](/workshop/dissolve.md)
+  - [工作室信息](/workshop/details.md)

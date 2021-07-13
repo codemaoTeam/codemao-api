@@ -1,14 +1,14 @@
-# 个人信息
+# 帖子信息
 
-> 获取个人信息  
-> `/api/user/info` `GET` `需要cookies`
+> 获取帖子信息  
+> `/web/forums/posts/<forum_id>/details` `GET`
 
 ## 返回内容
 
 |           key           |              value               |  type  |
 | :---------------------: | :------------------------------: | :----: |
-|           id            |                ID                | string |
-|        nickname         |               昵称               | string |
+|           id            |             帖子 ID              | string |
+|          user           |      （[查看详情](#user)）       |  JSON  |
 |       avatar_url        |             头像链接             | string |
 |          email          |             邮箱地址             | string |
 |          gold           |              金币数              |  int   |
@@ -29,6 +29,16 @@
 | has_seen_primary_course |              `未知`              |  int   |
 |      author_level       |             用户等级             |  int   |
 
-!> 用户等级具体见[这个页面](https://shequ.codemao.cn/friendly_protocol)
+### user
 
-> 更新于 2021.04.27
+|     key     |     value     |  type  |
+| :---------: | :-----------: | :----: |
+|     id      |    用户 ID    | string |
+|  nickname   |     昵称      | string |
+| avatar_url  |   头像 URL    | string |
+| subject_id  | 用户工作室 ID | string |
+| description |   自我描述    | string |
+|    doing    |  正在做的事   | string |
+|    level    |   用户等级    |  int   |
+
+> 更新于 2021.05.14

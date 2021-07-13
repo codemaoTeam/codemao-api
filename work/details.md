@@ -3,13 +3,13 @@
 !> 这个 API 文档正在编写中，请勿使用
 
 > 获取个人信息  
-> `/creation-tools/v1/works/<work_id>` `GET`  
-
+> `/creation-tools/v1/works/<work_id>` `GET`
 
 ## 返回内容
+
 |         key          |                 value                  |  type  |
 | :------------------: | :------------------------------------: | :----: |
-|          id          |                 作品ID                 | string |
+|          id          |                作品 ID                 | string |
 |         type         |                                        |        |
 |       ide_type       |                                        |        |
 |      operation       |                                        |        |
@@ -37,9 +37,10 @@
 |   work_label_list    |                                        |        |
 
 ### user_info
+
 |     key     |     value      |  type  |
 | :---------: | :------------: | :----: |
-|     id      |     用户ID     |  int   |
+|     id      |    用户 ID     |  int   |
 |  nickname   |    用户昵称    | string |
 | avatar_url  |  用户头像链接  | string |
 |   n_works   |     `未知`     |  int   |
@@ -48,15 +49,15 @@
 | description |  用户自我描述  | string |
 
 ### abilities
+
 |     key     |     value      |  type  |
 | :---------: | :------------: | :----: |
-|     id      |     用户ID     |  int   |
+|     id      |    用户 ID     |  int   |
 |  nickname   |    用户昵称    | string |
 | avatar_url  |  用户头像链接  | string |
 |   n_works   |     `未知`     |  int   |
 | total_likes | 用户被点赞总数 |  int   |
 | is_followed | 是否关注该用户 |  bool  |
 | description |  用户自我描述  | string |
-
 
 > 更新于 2021.04.29
