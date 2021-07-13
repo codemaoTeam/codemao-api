@@ -1,72 +1,77 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <meta charset="UTF-8">
+  <head>
+    <meta charset="UTF-8" />
     <title>Codemao API</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="Description">
-    <meta name="viewport"
-        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="icon" href="./static/favicon.ico">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description" />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link rel="icon" href="./static/favicon.ico" />
 
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css">
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
+    />
     <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
     <script src="./static/js/jquery.min.js"></script>
 
-    <script src="./static/js/refresh_cache.js"></script>
-    <link rel="stylesheet" href="./static/css/table.css">
-    <link rel="stylesheet" href="./static/css/sidebar.css">
+    <link rel="stylesheet" href="./static/css/table.css" />
+    <link rel="stylesheet" href="./static/css/sidebar.css" />
 
     <style>
-        :root {
-            --docsifytabs-border-color: #ededed;
-            --docsifytabs-tab-highlight-color: purple;
-        }
+      :root {
+        --docsifytabs-border-color: #ededed;
+        --docsifytabs-tab-highlight-color: purple;
+      }
     </style>
-</head>
+  </head>
 
-<body>
+  <body>
     <div id="app">加载中……</div>
-    <nav>
-        <a onclick="refreshCache()">刷新缓存</a>
-    </nav>
     <script>
-        var num = 0;
-        mermaid.initialize({ startOnLoad: false });
+      var num = 0;
+      mermaid.initialize({ startOnLoad: false });
 
-        window.$docsify = {
-            name: 'Codemao API',
-            repo: '',
-            loadSidebar: true,
-            loadNavbar: true,
-            subMaxLevel: 2,
-            coverpage: true,
-            notFoundPage: true,
-            search: {
-                paths: 'auto',
-                placeholder: '搜索内容',
+      window.$docsify = {
+        name: 'Codemao API',
+        repo: '',
+        loadSidebar: true,
+        loadNavbar: true,
+        subMaxLevel: 2,
+        coverpage: true,
+        notFoundPage: true,
+        search: {
+          paths: 'auto',
+          placeholder: '搜索内容',
+        },
+        markdown: {
+          renderer: {
+            code: function (code, lang) {
+              if (lang === 'mermaid') {
+                return (
+                  '<div class="mermaid">' +
+                  mermaid.render('mermaid-svg-' + num++, code) +
+                  '</div>'
+                );
+              }
+              return this.origin.code.apply(this, arguments);
             },
-            markdown: {
-                renderer: {
-                    code: function (code, lang) {
-                        if (lang === "mermaid") {
-                            return (
-                                '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
-                            );
-                        }
-                        return this.origin.code.apply(this, arguments);
-                    }
-                }
-            },
-            count: {
-                countable: true,
-                fontsize: '0.9em',
-                color: 'rgb(90,90,90)',
-                language: 'chinese'
-            }
-        }
+          },
+        },
+        count: {
+          countable: true,
+          fontsize: '0.9em',
+          color: 'rgb(90,90,90)',
+          language: 'chinese',
+        },
+      };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1.22.0/components/prism-json.min.js"></script>
@@ -78,6 +83,5 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
-</body>
-
+  </body>
 </html>
