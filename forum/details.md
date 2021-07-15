@@ -3,6 +3,8 @@
 > 获取帖子信息  
 > `/web/forums/posts/<forum_id>/details` `GET`
 
+!> 这个 API 文档正在编写中，请勿使用
+
 ## 返回内容
 
 |           key           |              value               |  type  |

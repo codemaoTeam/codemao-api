@@ -29,6 +29,6 @@
 | has_seen_primary_course |              `未知`              |  int   |
 |      author_level       |             用户等级             |  int   |
 
-!> 用户等级具体见[这个页面](https://shequ.codemao.cn/friendly_protocol)
+?> 用户等级具体见[这个页面](https://shequ.codemao.cn/friendly_protocol)
 
 > 更新于 2021.04.27

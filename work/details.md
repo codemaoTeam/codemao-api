@@ -1,8 +1,8 @@
-# 个人信息
+# 作品信息
 
 !> 这个 API 文档正在编写中，请勿使用
 
-> 获取个人信息  
+> 获取作品信息  
 > `/creation-tools/v1/works/<work_id>` `GET`
 
 ## 返回内容
@@ -60,4 +60,4 @@
 | is_followed | 是否关注该用户 |  bool  |
 | description |  用户自我描述  | string |
 
-> 更新于 2021.04.29
+> 更新于 2021.07.15
