@@ -9,18 +9,17 @@
       name="viewport"
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
+    <meta name="keywords" content="API, Codemao, 编程猫, 文档" />
+    <meta
+      name="description"
+      content="Codemao API 是由编程猫社区用户简单得不简单发布及维护的，旨在为广大训练师提供快速上手的社区 API 接口文档"
+    />
     <link rel="icon" href="./static/favicon.ico" />
 
     <link
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css"
     />
-    <link
-      rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"
-    />
-    <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-    <script src="./static/js/jquery.min.js"></script>
 
     <link rel="stylesheet" href="./static/css/table.css" />
     <link rel="stylesheet" href="./static/css/sidebar.css" />
@@ -31,14 +30,17 @@
         --docsifytabs-tab-highlight-color: purple;
       }
     </style>
+
+    <script>
+      if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('./static/js/sw.js');
+      }
+    </script>
   </head>
 
   <body>
     <div id="app">加载中……</div>
     <script>
-      var num = 0;
-      mermaid.initialize({ startOnLoad: false });
-
       window.$docsify = {
         name: 'Codemao API',
         repo: '',
@@ -50,20 +52,6 @@
         search: {
           paths: 'auto',
           placeholder: '搜索内容',
-        },
-        markdown: {
-          renderer: {
-            code: function (code, lang) {
-              if (lang === 'mermaid') {
-                return (
-                  '<div class="mermaid">' +
-                  mermaid.render('mermaid-svg-' + num++, code) +
-                  '</div>'
-                );
-              }
-              return this.origin.code.apply(this, arguments);
-            },
-          },
         },
         count: {
           countable: true,
