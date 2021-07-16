@@ -2,33 +2,41 @@
 
 - 用户
   - [登录](/user/login.md)
-  - 查看
-  - [消息](/user/messages.md)
-  - [个人信息（details）](/user/details.md)
-  - [个人信息（info）](/user/info.md)
-  - [其他用户信息](/user/user_details.md)
-  - [荣誉信息](/user/honor.md)
-  - [作品列表](/user/work-list.md)
-  - [收藏作品列表](/user/collection-work-list.md)
-  - [关注列表](/user/follow-list.md)
-  - [粉丝列表](/user/fan-list.md)
-  - 修改
-  - [修改用户信息](/user/update_info.md)
-  - [修改用户密码](/user/update_password.md)
+  - 改
+    - [修改用户信息](/user/update_info.md)
+    - [修改用户密码](/user/update_password.md)
+  - 查
+    - [消息](/user/messages.md)
+    - [个人信息（details）](/user/details.md)
+    - [个人信息（info）](/user/info.md)
+    - [其他用户信息](/user/user_details.md)
+    - [荣誉信息](/user/honor.md)
+    - [作品列表](/user/work-list.md)
+    - [收藏作品列表](/user/collection-work-list.md)
+    - [关注列表](/user/follow-list.md)
+    - [粉丝列表](/user/fan-list.md)
 - 社区
   - [签订友好协议](/community/signature.md)
-  - [滑块](/community/banners.md)
-  - [举报原因](/community/report_reasons.md)
+  - 查
+    - [滑块](/community/banners.md)
+    - [举报原因](/community/report_reasons.md)
 - 作品
-  - [作品信息](/work/details.md)
-  - 修改
-  - [创建作品](/work/create.md)
-  - [发布作品](/work/publish.md)
-  - [取消发布作品](/work/unpublish.md)
-  - [删除作品](/work/delete.md)
+  - 增
+    - [创建作品](/work/create.md)
+  - 删
+    - [删除作品](/work/delete.md)
+  - 改
+    - [发布作品](/work/publish.md)
+    - [取消发布作品](/work/unpublish.md)
+  - 查
+    - [作品信息](/work/details.md)
 - 帖子
-  - [帖子信息](/forum/details.md)
+  - 查
+    - [帖子信息](/forum/details.md)
 - 工作室
-  - [创建工作室](/workshop/create.md)
-  - [解散工作室](/workshop/dissolve.md)
-  - [工作室信息](/workshop/details.md)
+  - 增
+    - [创建工作室](/workshop/create.md)
+  - 删
+    - [解散工作室](/workshop/dissolve.md)
+  - 查
+    - [工作室信息](/workshop/details.md)
