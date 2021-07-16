@@ -30,7 +30,15 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 
 ## 加入我们
 
-如果你想参与本文档的开发与维护，请[发送邮件](mailto:admin@jddbjd.top)到`admin@jddbjd.top`，目前，已经有以下开发者加入：
+- 精通 markdown 语法
+- 对 [docsify](https://docsify.js.org/#/zh-cn/) 有基本了解
+- 熟练使用 [GIT](https://www.liaoxuefeng.com/wiki/896043488029600)，掌握提交，处理冲突，分支合并，版本控制等基本操作
+- 有基本的网络通信知识
+- 有团队合作意识，根据要求进行开发
+
+如果你想参与本文档的开发与维护，并且符合以上要求，请[发送邮件](mailto:admin@jddbjd.top)
+
+目前，已经有以下开发者加入：
 
 - [简单得不简单](https://shequ.codemao.cn/user/2776410)
 
