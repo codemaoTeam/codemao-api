@@ -3,44 +3,25 @@
 > 获取帖子信息  
 > `/web/forums/posts/<forum_id>/details` `GET`
 
-!> 这个 API 文档正在编写中，请勿使用
-
 ## 返回内容
 
-|           key           |              value               |  type  |
-| :---------------------: | :------------------------------: | :----: |
-|           id            |             帖子 ID              | string |
-|          user           |      （[查看详情](#user)）       |  JSON  |
-|       avatar_url        |             头像链接             | string |
-|          email          |             邮箱地址             | string |
-|          gold           |              金币数              |  int   |
-|           qq            |             QQ 号码              | string |
-|        real_name        |             真实姓名             | string |
-|           sex           | 性别（`FEMALE`为女，`MALE`为男） | string |
-|        username         |              用户名              | string |
-|     voice_forbidden     |            是否被禁言            |  bool  |
-|        birthday         |            生日时间戳            |  int   |
-|       description       |             自我描述             | string |
-|      phone_number       | 手机号（格式：123\*\*\*\*4567）  | string |
-|       create_time       |          用户创建时间戳          |  int   |
-|         oauths          |               `略`               |  JSON  |
-|      has_password       |           是否设置密码           |  bool  |
-|        user_type        |              `未知`              |  int   |
-|     show_guide_flag     |              `未知`              |  int   |
-|       has_signed        |       是否签订《友好契约》       |  bool  |
-| has_seen_primary_course |              `未知`              |  int   |
-|      author_level       |             用户等级             |  int   |
+|      key      |          value           |  type  |
+| :-----------: | :----------------------: | :----: |
+| ask_help_flag |       是否为求助帖       |  int   |
+|   board_id    |     帖子所在板块 ID      | string |
+|  board_name   |     帖子所在板块名称     | string |
+|    content    |         帖子内容         | string |
+|  created_at   |        发布时间戳        |  int   |
+|      id       |         帖子 ID          | string |
+| is_authorized |       是否为官方贴       |  bool  |
+|  is_featured  |       是否为精选贴       |  bool  |
+|   is_hotted   |       是否为热门贴       |  bool  |
+|   is_pinned   |       是否为置顶帖       |  bool  |
+|  n_comments   | （每个回帖下的）评论数量 |  int   |
+|   n_replies   |         回帖数量         |  int   |
+|    n_views    |         浏览次数         |  int   |
+|     title     |         帖子标题         | string |
+| tutorial_flag |       是否为教程帖       |  int   |
+|  updated_at   |        更新时间戳        |  int   |
 
-### user
-
-|     key     |     value     |  type  |
-| :---------: | :-----------: | :----: |
-|     id      |    用户 ID    | string |
-|  nickname   |     昵称      | string |
-| avatar_url  |   头像 URL    | string |
-| subject_id  | 用户工作室 ID | string |
-| description |   自我描述    | string |
-|    doing    |  正在做的事   | string |
-|    level    |   用户等级    |  int   |
-
-> 更新于 2021.05.14
+> 更新于 2021.07.16
