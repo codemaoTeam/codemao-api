@@ -41,6 +41,7 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 目前，已经有以下开发者加入：
 
 - [简单得不简单](https://shequ.codemao.cn/user/2776410)
+- [J5U/Caopoy/Awhw](https://shequ.codemao.cn/user/8315612)
 
 ## 问题反馈
 
