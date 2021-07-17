@@ -4,9 +4,8 @@
 
 > 编程猫社区 API 文档
 
-- 开发团队强大
-- 易于学习，快速上手
-- 更新速度快，随时适配接口的最新状态
+- 逻辑清晰
+- 简单易用
+- 及时更新
 
-[Git 仓库](https://jddbjd.coding.net/public/codemao/Codemao_API/git/files)
 [开始使用](#main)

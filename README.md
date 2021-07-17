@@ -36,7 +36,7 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 - 有基本的网络通信知识
 - 有团队合作意识，根据要求进行开发
 
-如果你想参与本文档的开发与维护，并且符合以上要求，请[发送邮件](mailto:admin@jddbjd.top)
+如果你想参与本文档的开发与维护，并且符合以上要求，请[发送邮件](mailto:mao-api@jddbjd.top)
 
 目前，已经有以下开发者加入：
 
@@ -51,4 +51,4 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 - 可能遗漏掉了某些 API
 - 文档本身可能存在一些错误
 
-您的任何宝贵意见都可以通过[邮件](mailto:admin@jddbjd.top)反馈
+您的任何宝贵意见都可以通过[邮件](mailto:mao-api@jddbjd.top)反馈
