@@ -27,6 +27,6 @@
 |        ordinal        |        `未知`        |  int   |
 |   latest_joined_at    | 最后有人加入的时间戳 |  int   |
 |      created_at       |   工作室创建时间戳   |  int   |
-|      updated_at       |        `未知`        |  int   |
+|      updated_at       | 工作室主页最后被访问的时间戳 |  int   |
 
-> 更新于 2021.04.25
+> 更新于 2021.07.19
