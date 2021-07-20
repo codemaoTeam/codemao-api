@@ -32,6 +32,7 @@
     - [作品信息](/work/details.md)
 - 帖子
   - 查
+    - [所有板块信息](/forum/boards.md)
     - [帖子信息](/forum/details.md)
 - 工作室
   - 增
