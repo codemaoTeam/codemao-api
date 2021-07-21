@@ -30,9 +30,10 @@
     - [取消发布作品](/work/unpublish.md)
   - 查
     - [作品信息](/work/details.md)
-- 帖子
+- 论坛
   - 查
     - [所有板块信息](/forum/boards.md)
+    - [板块信息](/forum/board.md)
     - [帖子信息](/forum/details.md)
 - 工作室
   - 增
