@@ -31,6 +31,8 @@
   - 查
     - [作品信息](/work/details.md)
 - 论坛
+  - 增
+    - [发布帖子](/forum/publish.md)
   - 查
     - [所有板块信息](/forum/boards.md)
     - [板块信息](/forum/board.md)
