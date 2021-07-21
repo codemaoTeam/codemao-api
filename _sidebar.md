@@ -42,5 +42,7 @@
     - [创建工作室](/workshop/create.md)
   - 删
     - [解散工作室](/workshop/dissolve.md)
+  - 改
+    - [修改信息](/workshop/update.md)
   - 查
     - [工作室信息](/workshop/details.md)
