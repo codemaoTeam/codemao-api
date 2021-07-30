@@ -1,7 +1,7 @@
 # 解散工作室
 
 > 解散工作室  
-> `/web/work_shops/dissolve` `POST` `需要cookies`
+> `/web/work_shops/dissolve` `POST` `需要cookies` `需要工作室室长权限`
 
 ## POST 请求参数
 

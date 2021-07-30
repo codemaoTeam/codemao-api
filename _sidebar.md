@@ -44,5 +44,7 @@
     - [解散工作室](/workshop/dissolve.md)
   - 改
     - [修改信息](/workshop/update.md)
+    - [申请加入](/workshop/apply_join.md)
+    - [审核加入](/workshop/audit_join.md)
   - 查
     - [工作室信息](/workshop/details.md)
