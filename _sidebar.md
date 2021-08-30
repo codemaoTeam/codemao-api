@@ -1,5 +1,3 @@
-<h4 style="padding: 10px 30px; background-color:#bff; color:red; text-align: center">请勿利用 API 进行不正当的行为</h3>
-
 - 用户
   - [登录](/user/login.md)
   - 改
@@ -15,6 +13,7 @@
     - [收藏作品列表](/user/collection-work-list.md)
     - [关注列表](/user/follow-list.md)
     - [粉丝列表](/user/fan-list.md)
+    - [随机昵称](/user/random-nickname.md)
 - 社区
   - [签订友好协议](/community/signature.md)
   - 查
