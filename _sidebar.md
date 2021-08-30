@@ -1,49 +1,51 @@
 - 用户
-  - [登录](/user/login.md)
+  - [登录](/user/login)
   - 改
-    - [修改用户信息](/user/update_info.md)
-    - [修改用户密码](/user/update_password.md)
+    - [修改用户信息](/user/update_info)
+    - [修改用户密码](/user/update_password)
   - 查
-    - [消息](/user/messages.md)
-    - [个人信息（details）](/user/details.md)
-    - [个人信息（info）](/user/info.md)
-    - [其他用户信息](/user/user_details.md)
-    - [荣誉信息](/user/honor.md)
-    - [作品列表](/user/work-list.md)
-    - [收藏作品列表](/user/collection-work-list.md)
-    - [关注列表](/user/follow-list.md)
-    - [粉丝列表](/user/fan-list.md)
-    - [随机昵称](/user/random-nickname.md)
+    - [消息](/user/messages)
+    - [个人信息（details）](/user/details)
+    - [个人信息（info）](/user/info)
+    - [其他用户信息](/user/user_details)
+    - [荣誉信息](/user/honor)
+    - [作品列表](/user/work-list)
+    - [收藏作品列表](/user/collection-work-list)
+    - [关注列表](/user/follow-list)
+    - [粉丝列表](/user/fan-list)
+    - [随机昵称](/user/random-nickname)
 - 社区
-  - [签订友好协议](/community/signature.md)
+  - [签订友好协议](/community/signature)
   - 查
-    - [滑块](/community/banners.md)
-    - [举报原因](/community/report_reasons.md)
+    - [滑块](/community/banners)
+    - [举报原因](/community/report_reasons)
 - 作品
   - 增
-    - [创建作品](/work/create.md)
+    - [创建作品](/work/create)
   - 删
-    - [删除作品](/work/delete.md)
+    - [删除作品](/work/delete)
   - 改
-    - [发布作品](/work/publish.md)
-    - [取消发布作品](/work/unpublish.md)
+    - [发布作品](/work/publish)
+    - [取消发布作品](/work/unpublish)
   - 查
-    - [作品信息](/work/details.md)
+    - [作品信息](/work/details)
 - 论坛
   - 增
-    - [发布帖子](/forum/publish.md)
+    - [发布帖子](/forum/publish)
   - 查
-    - [所有板块信息](/forum/boards.md)
-    - [板块信息](/forum/board.md)
-    - [帖子信息](/forum/details.md)
+    - [所有板块信息](/forum/boards)
+    - [板块信息](/forum/board)
+    - [帖子信息](/forum/details)
 - 工作室
   - 增
-    - [创建工作室](/workshop/create.md)
+    - [创建工作室](/workshop/create)
+    - [添加作品](/workshop/contribute-work)
   - 删
-    - [解散工作室](/workshop/dissolve.md)
+    - [解散工作室](/workshop/dissolve)
+    - [删除作品](/workshop/remove-work)
   - 改
-    - [修改信息](/workshop/update.md)
-    - [申请加入](/workshop/apply_join.md)
-    - [审核加入](/workshop/audit_join.md)
+    - [修改信息](/workshop/update)
+    - [申请加入](/workshop/apply_join)
+    - [审核加入](/workshop/audit_join)
   - 查
-    - [工作室信息](/workshop/details.md)
+    - [工作室信息](/workshop/details)
