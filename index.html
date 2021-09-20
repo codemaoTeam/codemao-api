@@ -32,20 +32,13 @@
     </style>
 
     <script>
-      if (typeof navigator.serviceWorker !== 'undefined') {
-        navigator.serviceWorker.register('./static/js/sw.js');
+      if (
+        (location.hostname != '127.0.0.1') &
+        (location.hostname != 'localhost') &
+        (location.hostname != 'api.docs.codemao.tk')
+      ) {
+        location.href = 'https://api.docs.codemao.tk';
       }
-    </script>
-
-    <script>
-      // 百度统计
-      var _hmt = _hmt || [];
-      (function () {
-        var hm = document.createElement('script');
-        hm.src = 'https://hm.baidu.com/hm.js?b0f8afdec0d5147b94cf0a82f532195a';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(hm, s);
-      })();
     </script>
   </head>
 
