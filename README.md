@@ -50,4 +50,4 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 - 可能遗漏掉了某些 API
 - 文档本身可能存在一些错误
 
-您的任何宝贵意见都可以通过[邮件](mailto:mao-api@jddbjd.top)反馈，如果您会使用 Git，可以直接像本文档代码仓库发送 pull 请求。
+您的任何宝贵意见都可以通过[邮件](mailto:mao-api@jddbjd.top)反馈，如果您会使用 Git，可以直接响本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
