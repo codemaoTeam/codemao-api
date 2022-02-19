@@ -1,7 +1,7 @@
 # 帖子信息
 
 > 获取帖子信息  
-> `/web/forums/posts/<forum_id>/details` `GET`
+> `/web/forums/posts/<post_id>/details` `GET`
 
 ## 返回内容
 
