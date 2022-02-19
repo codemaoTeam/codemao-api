@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /#/
-Disallow: /.nojekyll
-Disallow: /*.md$
-Disallow: /*.html$
-Disallow: /static/
