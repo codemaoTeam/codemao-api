@@ -1,57 +1,43 @@
 - 用户
   - [登录](/user/login)
-  - 改
-    - [修改用户信息](/user/update_info)
-    - [修改用户密码](/user/update_password)
-  - 查
-    - [消息](/user/messages)
-    - [个人信息（details）](/user/details)
-    - [个人信息（info）](/user/info)
-    - [其他用户信息](/user/user_details)
-    - [荣誉信息](/user/honor)
-    - [作品列表](/user/work_list)
-    - [收藏作品列表](/user/collection_work_list)
-    - [关注列表](/user/follow_list)
-    - [粉丝列表](/user/fan_list)
-    - [随机昵称](/user/random_nickname)
+  - [修改用户信息](/user/update_info)
+  - [修改用户密码](/user/update_password)
+  - [消息](/user/messages)
+  - [个人信息（details）](/user/details)
+  - [个人信息（info）](/user/info)
+  - [其他用户信息](/user/user_details)
+  - [荣誉信息](/user/honor)
+  - [作品列表](/user/work_list)
+  - [收藏作品列表](/user/collection_work_list)
+  - [关注列表](/user/follow_list)
+  - [粉丝列表](/user/fan_list)
+  - [随机昵称](/user/random_nickname)
 - 社区
   - [签订友好协议](/community/signature)
-  - 查
-    - [滑块](/community/banners)
-    - [举报原因](/community/report_reasons)
+  - [滑块](/community/banners)
+  - [举报原因](/community/report_reasons)
 - 作品
-  - 增
-    - [创建作品](/work/create)
-  - 删
-    - [删除作品](/work/delete)
-  - 改
-    - [发布作品](/work/publish)
-    - [取消发布作品](/work/unpublish)
-  - 查
-    - [作品信息](/work/details)
+  - [创建作品](/work/create)
+  - [删除作品](/work/delete)
+  - [发布作品](/work/publish)
+  - [取消发布作品](/work/unpublish)
+  - [作品信息](/work/details)
 - 论坛
   - [名词解释](/forum/explain)
-  - 增
-    - [发布帖子](/forum/publish_post)
-    - [举报帖子](/forum/report_post)
-    - [添加回帖](/forum/add_reply)
-    - [添加回复](/forum/add_comment)
-  - 删
-    - [删除帖子](/forum/delete_post)
-  - 查
-    - [所有板块信息](/forum/boards)
-    - [板块信息](/forum/board)
-    - [帖子信息](/forum/details)
+  - [所有板块信息](/forum/boards)
+  - [板块信息](/forum/board)
+  - [发布帖子](/forum/publish_post)
+  - [删除帖子](/forum/delete_post)
+  - [举报帖子](/forum/report_post)
+  - [帖子信息](/forum/details)
+  - [添加回帖](/forum/add_reply)
+  - [添加回复](/forum/add_comment)
 - 工作室
-  - 增
-    - [创建工作室](/workshop/create)
-    - [添加作品](/workshop/contribute_work)
-  - 删
-    - [解散工作室](/workshop/dissolve)
-    - [删除作品](/workshop/remove_work)
-  - 改
-    - [修改信息](/workshop/update)
-    - [申请加入](/workshop/apply_join)
-    - [审核加入](/workshop/audit_join)
-  - 查
-    - [工作室信息](/workshop/details)
+  - [创建工作室](/workshop/create)
+  - [解散工作室](/workshop/dissolve)
+  - [修改信息](/workshop/update)
+  - [工作室信息](/workshop/details)
+  - [添加作品](/workshop/contribute_work)
+  - [删除作品](/workshop/remove_work)
+  - [申请加入](/workshop/apply_join)
+  - [审核加入](/workshop/audit_join)
