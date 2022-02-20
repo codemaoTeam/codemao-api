@@ -12,6 +12,7 @@
   - [关注列表](/user/follow_list)
   - [粉丝列表](/user/fan_list)
   - [随机昵称](/user/random_nickname)
+  - [所有认证相关内容](/user/all_about_auth)
 - 社区
   - [签订友好协议](/community/signature)
   - [滑块](/community/banners)
