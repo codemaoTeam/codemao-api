@@ -23,6 +23,7 @@
   - [发布作品](/work/publish)
   - [取消发布作品](/work/unpublish)
   - [作品信息](/work/details)
+  - [作品继承树](/work/tree)
 - 论坛
   - [名词解释](/forum/explain)
   - [所有板块信息](/forum/boards)
