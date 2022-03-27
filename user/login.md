@@ -5,18 +5,36 @@
 
 ## POST 请求参数
 
-|   key    |                   value                    |  type  |        |
-| :------: | :----------------------------------------: | :----: | :----: |
-|   pid    | 必须为`65edCTyg`，可在编程猫官网 JS 中获得 | string | `必须` |
-| identity |             手机号/用户名/邮箱             | string | `必须` |
-| password |                    密码                    | string | `必须` |
+|   key    |          value           |  type  |        |
+| :------: | :----------------------: | :----: | :----: |
+|   pid    | 可在编程猫官网 JS 中获得 | string | `必须` |
+| identity |    手机号/用户名/邮箱    | string | `必须` |
+| password |           密码           | string | `必须` |
+
+### `pid`说明：
+
+可在编程猫官网 JS 中获得，必须是以下值之一
+
+|    值    |   来源   |
+| :------: | :------: |
+| OqMVXvXp |  Kitten  |
+| 23AVXalo |  turtle  |
+| n6kwoCSe |   wood   |
+| cdRPMRe4 |  通天塔  |
+| zxKuFvkJ | 源码世界 |
+| 65edCTyg |   社区   |
+| ANNRvHZT |   BOX3   |
+| EpyqlRET |   BOX2   |
+| 7KeVbBdw |   CoCo   |
+| iZvfI6oa | MakerIDE |
+
 
 ## 返回内容
 
-|    key    |               value                | type |
-| :-------: | :--------------------------------: | :--: |
-| user_info | 用户信息（[查看详情](#user_info)） | JSON |
-|   auth    |     认证（[查看详情](#auth)）      | JSON |
+|    key    |               value                | type  |
+| :-------: | :--------------------------------: | :---: |
+| user_info | 用户信息（[查看详情](#user_info)） | JSON  |
+|   auth    |     认证（[查看详情](#auth)）      | JSON  |
 
 ### user_info
 
