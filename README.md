@@ -4,7 +4,7 @@
 
 ## 概述
 
-Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codemao.cn/user/2776410)发布及维护的，旨在为广大训练师提供快速上手的社区 API 接口文档
+Codemao API 文档是由编程猫社区用户[简单得不简单](https://shequ.codemao.cn/user/2776410)发起，鼓励所有人参与编写和维护，旨在为广大训练师提供快速上手的社区 API 接口文档
 
 ## 特征
 
@@ -30,14 +30,14 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 
 ## 加入我们
 
+如果你想参与本文档的编写与维护，并且符合以下要求，请[发送邮件](mailto:mao-api@jddbjd.top)，并附上你的编程猫 ID、QQ、Github 等信息
+
 - 精通 markdown 语法
 - 对 [docsify](https://docsify.js.org/#/zh-cn/) 有基本了解
 - 熟练使用 [GIT](https://www.liaoxuefeng.com/wiki/896043488029600)，掌握提交，处理冲突，版本控制等基本操作
 - 有 Github 账号，会使用 Github 进行协作开发
 - 有基本的网络通信知识
 - 有团队合作意识，根据要求进行开发
-
-如果你想参与本文档的开发与维护，并且符合以上要求，请[发送邮件](mailto:mao-api@jddbjd.top)，并附上你的编程猫 ID、QQ、Github 等信息
 
 目前，已经有以下开发者加入：
 
@@ -48,7 +48,7 @@ Codemao API 是由编程猫社区用户[简单得不简单](https://shequ.codema
 尽管我们尽力做到最好，但仍然存在许多改进之处：
 
 - 许多地方标注了`未知`
-- 可能遗漏掉了某些 API
+- 仍然处于编写过程中，并不包含全部 API
 - 文档本身可能存在一些错误
 
 您的任何宝贵意见都可以通过[邮件](mailto:mao-api@jddbjd.top)反馈，如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
