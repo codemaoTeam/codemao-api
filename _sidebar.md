@@ -43,3 +43,5 @@
   - [删除作品](/workshop/remove_work)
   - [申请加入](/workshop/apply_join)
   - [审核加入](/workshop/audit_join)
+- 小说
+  - [推荐小说](/fanfic/recommend)
