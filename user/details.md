@@ -1,7 +1,7 @@
 # 个人信息
 
 > 获取个人信息  
-> `/api/user/info` `GET` `需要cookies`
+> `/web/users/details` `GET` `需要cookies`
 
 ## 返回内容
 
@@ -31,4 +31,4 @@
 
 ?> 用户等级具体见[这个页面](https://shequ.codemao.cn/friendly_protocol)
 
-> 更新于 2021.04.27
+> 更新于 2022.04.16
