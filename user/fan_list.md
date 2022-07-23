@@ -13,6 +13,6 @@
 
 ## 返回内容
 
-> 与[关注列表](user/follow_list.md)完全一样
+> 与[关注列表](/user/follow_list.md)完全一样
 
 > 更新于 2021.04.24
