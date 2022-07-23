@@ -9,12 +9,12 @@
 
 |      key      |     value      |  type  |
 | :-----------: | :------------: | :----: |
+|      id       |    板块 ID     | string |
+|     name      |    板块名称    | string |
+|   icon_url    |  板块图标 URL  | string |
+|    is_hot     | 是否为热门板块 |  bool  |
 |  has_popular  |     `未知`     |  bool  |
 | has_selection |     `未知`     |  bool  |
-|   icon_url    |  板块图标 URL  | string |
-|      id       |    板块 ID     | string |
-|    is_hot     | 是否为热门板块 |  bool  |
-|     name      |    板块名称    | string |
 
 ### 示例
 

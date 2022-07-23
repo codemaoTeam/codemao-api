@@ -10,6 +10,7 @@
 |         key          |                 value                  |  type  |
 | :------------------: | :------------------------------------: | :----: |
 |          id          |                作品 ID                 | string |
+|      work_name       |                作品 ID                 | string |
 |         type         |                                        |        |
 |       ide_type       |                                        |        |
 |      operation       |                                        |        |
@@ -50,14 +51,10 @@
 
 ### abilities
 
-|     key     |     value      |  type  |
-| :---------: | :------------: | :----: |
-|     id      |    用户 ID     |  int   |
-|  nickname   |    用户昵称    | string |
-| avatar_url  |  用户头像链接  | string |
-|   n_works   |     `未知`     |  int   |
-| total_likes | 用户被点赞总数 |  int   |
-| is_followed | 是否关注该用户 |  bool  |
-| description |  用户自我描述  | string |
+|     key      | value | type |
+| :----------: | :---: | :--: |
+| is_collected |       |      |
+|  is_praised  |       |      |
+|   is_owned   |       |      |
 
 > 更新于 2021.07.15
