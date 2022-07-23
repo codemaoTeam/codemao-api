@@ -1,6 +1,7 @@
 - 用户
   - [登录](/user/login)
   - [修改用户信息](/user/update_info)
+  - [设置用户名](/user/set_username)
   - [修改用户密码](/user/update_password)
   - [消息](/user/messages)
   - [个人信息（details）](/user/details)
