@@ -51,3 +51,6 @@
   - [审核加入](/workshop/audit_join)
 - 小说
   - [推荐小说](/fanfic/recommend)
+- 示例程序
+  - [说明](/demo/explain)
+  - [获取新消息数量](/demo/get_messages)
