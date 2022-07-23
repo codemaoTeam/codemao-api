@@ -30,7 +30,7 @@ Codemao API 文档是由编程猫社区用户[简单得不简单](https://shequ.
 
 ## 加入我们
 
-如果你想参与本文档的编写与维护，并且符合以下要求，请[发送邮件](mailto:mao-api@jddbjd.top)，并附上你的编程猫 ID、QQ、Github 等信息
+如果你想参与本文档的编写与维护，并且符合以下要求，请[发送邮件](mailto:contact@codemao.work)，并附上你的编程猫 ID、QQ、Github 等信息
 
 - 精通 markdown 语法
 - 对 [docsify](https://docsify.js.org/#/zh-cn/) 有基本了解
@@ -51,4 +51,4 @@ Codemao API 文档是由编程猫社区用户[简单得不简单](https://shequ.
 - 仍然处于编写过程中，并不包含全部 API
 - 文档本身可能存在一些错误
 
-您的任何宝贵意见都可以通过[邮件](mailto:mao-api@jddbjd.top)反馈，如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
+您的任何宝贵意见都可以通过[邮件](mailto:contact@codemao.work)反馈，如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
