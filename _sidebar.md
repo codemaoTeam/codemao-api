@@ -18,6 +18,10 @@
   - [滑块](/community/banners)
   - [举报原因](/community/report_reasons)
 - 作品
+  - 协作
+    - [特别说明](/work/collaborat/explain)
+    - [设为协作](/work/collaborat/setup)
+    - [邀请码](/work/collaborat/code)
   - [创建作品](/work/create)
   - [删除作品](/work/delete)
   - [发布作品](/work/publish)
