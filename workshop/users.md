@@ -22,23 +22,23 @@
 
 ### items
 
-|       key       |                 value                 |  type  |
-| :-------------: | :-----------------------------------: | :----: |
-|       id        |                `未知`                 |  int   |
-|      name       |               用户昵称                | string |
-|     n_works     |                `未知`                 |  int   |
-|   avatar_url    |               头像链接                | string |
-|     user_id     |                用户 ID                |  int   |
-| work_subject_id |               工作室 ID               |  int   |
-|    object_id    |             工作室识别码              |  int   |
-|      type       | 在工作室中的职位（[查看详情](#type)） | string |
-|      role       |                `未知`                 |  int   |
-|    position     |                 职位                  | string |
-|     status      |                `未知`                 |  int   |
-| latest_work_at  |      工作室最新作品的投稿时间戳       |  int   |
-|       qq        |        申请加入时填写的 qq 号         | string |
+|       key       |             value             |  type  |
+| :-------------: | :---------------------------: | :----: |
+|       id        |            `未知`             |  int   |
+|      name       |           用户昵称            | string |
+|     n_works     |            `未知`             |  int   |
+|   avatar_url    |           头像链接            | string |
+|     user_id     |            用户 ID            |  int   |
+| work_subject_id |           工作室 ID           |  int   |
+|    object_id    |         工作室识别码          |  int   |
+|      type       |  `未知`（均为`"WORKSHOP"`）   | string |
+|      role       |            `未知`             |  int   |
+|    position     | 职位（[查看详情](#position)） | string |
+|     status      |            `未知`             |  int   |
+| latest_work_at  |  工作室最新作品的投稿时间戳   |  int   |
+|       qq        |    申请加入时填写的 qq 号     | string |
 
-#### type
+#### position
 
 |  职位  |      值      |
 | :----: | :----------: |
