@@ -45,6 +45,7 @@
   - [解散工作室](/workshop/dissolve)
   - [修改信息](/workshop/update)
   - [工作室信息](/workshop/details)
+  - [成员](/workshop/users)
   - [添加作品](/workshop/contribute_work)
   - [删除作品](/workshop/remove_work)
   - [申请加入](/workshop/apply_join)
