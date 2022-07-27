@@ -14,16 +14,12 @@
       name="description"
       content="Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提供快速上手的社区 API 接口文档"
     />
-    <link rel="icon" href="./static/favicon.ico" />
+    <link rel="icon" href="/static/favicon.ico" />
 
-    <link
-      rel="stylesheet"
-      href="//unpkg.com/docsify/lib/themes/vue.css"
-    />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
 
-    <link rel="stylesheet" href="./static/css/table.css" />
-    <link rel="stylesheet" href="./static/css/sidebar.css" />
-    </style>
+    <link rel="stylesheet" href="/static/css/table.css" />
+    <link rel="stylesheet" href="/static/css/sidebar.css" />
   </head>
 
   <body>
@@ -33,6 +29,9 @@
         name: 'Codemao API',
         repo: 'https://github.com/codemaoTeam/codemao-api',
         loadSidebar: true,
+        alias: {
+          '/.*/_sidebar.md': '/_sidebar.md',
+        },
         subMaxLevel: 2,
         coverpage: true,
         notFoundPage: true,
@@ -44,7 +43,8 @@
         Valine: {
           appId: '6XdtAxj3a2keka4kxxXHVlKr-gzGzoHsz',
           appKey: '0Jd652yv3kC9y5kamHDhWk8D',
-          placeholder: '支持 Markdown 语法\n提示：评论区可能无法及时被关注到，可以选择邮箱（contact@codemao.work）反馈',
+          placeholder:
+            '支持 Markdown 语法\n提示：评论区可能无法及时被关注到，可以选择邮箱（contact@codemao.work）反馈',
           requiredFields: ['nick'],
           recordIP: true,
         },
@@ -57,7 +57,7 @@
     <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
 
-    <script src="./static/js/plugin.js"></script>
+    <script src="/static/js/plugin.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
     <script src="//unpkg.com/docsify-copy-code"></script>
