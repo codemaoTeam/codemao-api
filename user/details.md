@@ -24,7 +24,7 @@
 |         oauths          |               `略`               |  JSON  |
 |      has_password       |           是否设置密码           |  bool  |
 |        user_type        |              `未知`              |  int   |
-|     show_guide_flag     |              `未知`              |  int   |
+|     show_guide_flag     |              1：在主页显示创作教程，0：不显示              |  int   |
 |       has_signed        |       是否签订《友好契约》       |  bool  |
 | has_seen_primary_course |              `未知`              |  int   |
 |      author_level       |             用户等级             |  int   |
