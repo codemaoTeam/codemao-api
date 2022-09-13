@@ -14,11 +14,11 @@
 
 ### `query_type`说明： :id=description_query_type
 
-|    类型    |       值       |
-| :--------: | :------------: |
-| 评论与回复 | COMMENT_REPLY` |
-| 赞与被购买 |   LIKE_FORK    |
-|  系统消息  |     SYSTEM     |
+|    类型    |      值       |
+| :--------: | :-----------: |
+| 评论与回复 | COMMENT_REPLY |
+| 赞与被购买 |   LIKE_FORK   |
+|  系统消息  |    SYSTEM     |
 
 ### 示例
 
