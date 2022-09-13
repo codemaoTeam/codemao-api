@@ -34,6 +34,7 @@
   - [所有板块信息](/forum/boards)
   - [板块信息](/forum/board)
   - [公告栏](/forum/notice_boards)
+  - [搜索帖子](/forum/search_post)
   - [发布帖子](/forum/publish_post)
   - [删除帖子](/forum/delete_post)
   - [举报帖子](/forum/report_post)
