@@ -49,10 +49,14 @@
           recordIP: true,
           docPath: 'full',
         },
-        customPageTitle: {
-          suffix: 'Codemao API - 编程猫社区API文档',
-        },
       };
+
+      // 仅在非首页页面加载页面标题后缀
+      if (location.pathname != '/') {
+        window.$docsify.customPageTitle = {
+          suffix: 'Codemao API - 编程猫社区API文档',
+        };
+      }
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-json.min.js"></script>
