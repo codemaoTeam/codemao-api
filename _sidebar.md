@@ -14,6 +14,7 @@
   - [关注列表](/user/follow-list)
   - [粉丝列表](/user/fan-list)
   - [随机昵称](/user/random-nickname)
+  - [验证手机号](/user/check-phone-number)
   - [所有认证相关内容](/user/all-about-auth)
 - 社区
   - [签订友好协议](/community/signature)
