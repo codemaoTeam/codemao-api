@@ -1,6 +1,6 @@
-# 消息
+# 新消息数量
 
-> 获取新消息数量  
+> 获取自己的新消息数量  
 > `/web/message-record/count` `GET` `需要cookies`
 
 ## 返回内容
@@ -14,11 +14,11 @@
 
 ### `query_type`说明： :id=description_query_type
 
-|    类型    |      值       |
-| :--------: | :-----------: |
-| 评论与回复 | COMMENT_REPLY |
-| 赞与被购买 |   LIKE_FORK   |
-|  系统消息  |    SYSTEM     |
+|     value     | description |
+| :-----------: | :---------: |
+| COMMENT_REPLY | 评论与回复  |
+|   LIKE_FORK   | 赞与被购买  |
+|    SYSTEM     |  系统消息   |
 
 ### 示例
 
