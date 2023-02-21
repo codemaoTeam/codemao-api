@@ -12,19 +12,19 @@
 |          id          |                作品 ID                 | string |
 |      work_name       |                作品 ID                 | string |
 |         type         |                                        |        |
-|       ide_type       | 编辑器类型(Kitten2,Kitten3,Kitten4)    | string |
+|       ide_type       | 编辑器类型(Kitten2，Kitten3，Kitten4)  | string |
 |      operation       |                                        |        |
 |     description      |                                        |        |
 |     orientation      |                                        |        |
 |      parent_id       |                                        |        |
 |   parent_user_name   |                                        |        |
-|      player_url      |               player链接               | string |
-|      share_url       |               分享链接                 | string |
+|      player_url      |              player 链接               | string |
+|      share_url       |                分享链接                | string |
 |     n_tree_nodes     |                                        |        |
 |      view_times      |                                        |        |
 |    collect_times     |                                        |        |
 |     share_times      |                                        |        |
-|     fork_enable      |             是否开放再创作              |  bool |
+|     fork_enable      |             是否开放再创作             |  bool  |
 |       preview        |                                        |        |
 |     bcm_version      |                                        |        |
 |       bcm_url        |                                        |        |
