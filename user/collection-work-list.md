@@ -38,5 +38,3 @@
 |   publish_time    |  作品发布时间戳  |  int   |
 |     work_type     |     作品类型     |  int   |
 |    description    |     作品介绍     | string |
-
-> 更新于 2021.04.29

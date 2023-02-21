@@ -16,5 +16,3 @@
 | has_selection |       `未知`       |  bool  |
 |    n_posts    |   板块中帖子总数   |  int   |
 | n_discussions | 板块中帖子回复总数 |  int   |
-
-> 更新于 2021.07.21

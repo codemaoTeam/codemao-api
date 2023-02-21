@@ -30,5 +30,3 @@
 |      author_level       |                用户等级                |  int   |
 
 ?> 用户等级具体见[这个页面](https://shequ.codemao.cn/friendly_protocol)
-
-> 更新于 2022.09.13

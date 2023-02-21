@@ -22,5 +22,3 @@
 |  post_id   |     帖子 ID      | string |
 | post_title |     帖子标题     | string |
 |  ordinal   | 在公告栏中的顺序 |  int   |
-
-> 更新于 2022.07.23

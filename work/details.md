@@ -56,5 +56,3 @@
 | is_collected |       |      |
 |  is_praised  |       |      |
 |   is_owned   |       |      |
-
-> 更新于 2021.07.15

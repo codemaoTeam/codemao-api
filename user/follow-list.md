@@ -32,5 +32,3 @@
 | total_likes | 用户被点赞总数 |  int   |
 | is_followed | 是否关注该用户 |  bool  |
 | description |  用户自我描述  | string |
-
-> 更新于 2021.04.29

@@ -15,5 +15,3 @@
 |    name     |                作品名称                | string | `必须` |
 |  operation  |                操作说明                | string | `可选` |
 |   work_id   |           作品 ID（不需要）            |  int   | `可选` |
-
-> 更新于 2021.07.13

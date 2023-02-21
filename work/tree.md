@@ -28,5 +28,3 @@
 |  user_id  |      用户 ID       |  int   |
 | user_name | 用户名（不是昵称） | string |
 | nickname  |      用户昵称      | string |
-
-> 更新于 2021.03.04

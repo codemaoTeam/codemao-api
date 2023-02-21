@@ -60,5 +60,3 @@
 |   phone_number   | 手机号（格式：123\*\*\*\*4567） | string |
 |   has_password   |          是否设置密码           |  bool  |
 | is_weak_password |          是否为弱密码           |  int   |
-
-> 更新于 2022.03.31

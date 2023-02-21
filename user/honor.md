@@ -37,5 +37,3 @@
 |        like_score         |            用户点赞分            |  int   |
 |       collect_score       |            用户收藏分            |  int   |
 |        fork_score         |           用户再创作分           |  int   |
-
-> 更新于 2021.04.24

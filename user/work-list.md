@@ -39,5 +39,3 @@
 |  description  |                     作品介绍                     | string |
 |     role      | 在作品创作中的角色（此处似乎只可能为`"AUTHOR"`） | string |
 | is_coll_work  |                  是否为协作作品                  |  bool  |
-
-> 更新于 2021.04.29

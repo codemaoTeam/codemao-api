@@ -47,5 +47,3 @@
 |        REFRESH_TOKEN         |     /tiger/v3/web/accounts/tokens/refresh      |
 |         DELETE_TOKEN         |         /tiger/v3/web/accounts/tokens          |
 |  GET_TOKEN_FROM_OLD_COOKIE   |     /tiger/v3/web/accounts/tokens/convert      |
-
-> 更新于 2022.02.20

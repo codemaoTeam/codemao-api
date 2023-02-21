@@ -23,5 +23,3 @@
 |   is_pinned   |       是否为置顶帖       |  bool  |
 | tutorial_flag |       是否为教程帖       |  int   |
 | ask_help_flag |       是否为求助帖       |  int   |
-
-> 更新于 2021.07.16

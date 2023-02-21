@@ -45,5 +45,3 @@
 |  室长  |    LEADER    |
 | 副室长 | DEPUTYLEADER |
 |  室员  |    STAFF     |
-
-> 更新于 2022.07.24
