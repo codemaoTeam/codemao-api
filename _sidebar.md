@@ -1,3 +1,4 @@
+- [贡献指南](/CONTRIBUTING)
 - 用户
   - [登录](/user/login)
   - [修改用户信息](/user/update-info)
