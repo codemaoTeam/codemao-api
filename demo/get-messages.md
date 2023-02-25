@@ -2,8 +2,8 @@
 
 > 难度系数：:star:
 >
-> - [登录](user/login)
-> - [获取新消息数量](user/messages)
+> - [登录](user/login.md)
+> - [获取新消息数量](user/messages.md)
 
 登录用户，然后获取信息并打印
 
