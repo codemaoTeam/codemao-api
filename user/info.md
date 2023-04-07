@@ -13,7 +13,7 @@
 |    doing    |           正在做的事           | string |
 |    email    |              邮箱              | string |
 |    gold     |              金币              |  int   |
-|     id      |            用户 id             | string |
+|     id      |            用户 id             |  int   |
 |     sex     |      性别(m 为男，s 为女)      | string |
-|    level    | 等级（1 为潜力新星，以此类推） | string |
+|    level    | 等级（1 为潜力新星，以此类推） |  int   |
 |     qq      |             qq 号              | string |
