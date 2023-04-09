@@ -32,6 +32,7 @@
   - [取消发布作品](/work/unpublish.md)
   - [作品信息](/work/details.md)
   - [作品继承树](/work/tree.md)
+  - [作品源码](/work/source-code.md)
 - 论坛
   - [名词解释](/forum/explain.md)
   - [所有板块信息](/forum/boards.md)
