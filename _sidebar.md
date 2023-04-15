@@ -29,6 +29,7 @@
   - [创建作品](/work/create.md)
   - [删除作品](/work/delete.md)
   - [发布作品](/work/publish.md)
+  - [举报作品](/work/report.md)
   - [取消发布作品](/work/unpublish.md)
   - [作品信息](/work/details.md)
   - [作品继承树](/work/tree.md)
