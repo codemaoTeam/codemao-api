@@ -4,7 +4,7 @@
 
 ## 概述
 
-Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提供快速上手的社区 API 接口文档
+Codemao API 项目由[Coderorangesoft](https://shequ.codemao.cn/user/2557945)发起，基于 codemao-team-api，旨在弥补codemao-team-api的不足
 
 ## 特征
 
@@ -31,14 +31,18 @@ Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提�
 
 ## 加入我们
 
-如果你想参与本文档的编写与维护，并且符合以下要求，请[发送邮件到 contact@codemao.work](mailto:contact@codemao.work)，并附上你的编程猫 ID、QQ、Github 等信息
+如果你想参与本文档的编写与维护，并且符合以下要求，请[发送邮件到 orangesoft@111.com](mailto:orangesoft@111.com) ，并附上你的信息
+| 信息 | 重要程度 |
+|:----:| :-------:|
+|github|    必要   |
+| mail |    必要   |
+|  qq  | 选择性需要 |
 
-- 精通 markdown 语法
-- 对 [docsify](https://docsify.js.org/#/zh-cn/) 有基本了解
-- 熟练使用 [GIT](https://www.liaoxuefeng.com/wiki/896043488029600)，掌握提交，处理冲突，版本控制等基本操作
+### 要求
+- 用编程猫账号，且对编程猫社区的功能有基本了解
 - 有 Github 账号，会使用 Github 进行协作开发
 - 有基本的网络通信知识
-- 有团队合作意识，根据要求进行开发
+- 有团队合作意识
 
 > 查看[贡献指南](/CONTRIBUTING.md)
 
@@ -50,4 +54,4 @@ Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提�
 - 仍然处于编写过程中，并不包含全部 API
 - 文档本身可能存在一些错误
 
-您的任何宝贵意见都可以通过[邮件（contact@codemao.work）](mailto:contact@codemao.work)反馈，如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
+您的任何宝贵意见都可以通过[邮件（orangesoft@111.com）](mailto:orangesoft@111.com)反馈，如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
