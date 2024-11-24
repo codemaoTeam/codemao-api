@@ -19,8 +19,6 @@ Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提�
    > 修改用户密码  
    > `/tiger/v3/web/accounts/password` `PATCH` `需要cookies`
 
-   !> 注意
-
    - 没有特殊标注的 API 都基于这个 URL：`https://api.codemao.cn`
    - URL 中类似这样的表达`/abc/<user_id>`，`<xxx>`是一个变量，一般不会说明变量含义，可以从`<user_id>`看出是用户 ID
    - 大部分 API 介绍出于隐私等原因，不提供请求示例，请自行尝试
@@ -31,14 +29,14 @@ Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提�
 
 ## 加入我们
 
-如果你想参与本文档的编写与维护，并且符合以下要求，请[发送邮件到 contact@codemao.work](mailto:contact@codemao.work)，并附上你的编程猫 ID、QQ、Github 等信息
+本文档发起者已停止更新内容。如果你有能力且愿意参与本文档的编写与维护，可以[发送邮件到 lambdark@outlook.com](mailto:lambdark@outlook.com)，并附上你的编程猫 ID、Github 账号等信息，**申请获得文档 Git 仓库权限**。
+
+请确认自己符合以下要求：
 
 - 精通 markdown 语法
 - 对 [docsify](https://docsify.js.org/#/zh-cn/) 有基本了解
-- 熟练使用 [GIT](https://www.liaoxuefeng.com/wiki/896043488029600)，掌握提交，处理冲突，版本控制等基本操作
-- 有 Github 账号，会使用 Github 进行协作开发
+- 熟练使用 Git，掌握提交，处理冲突，版本控制等基本操作，使用 Github 进行开发
 - 有基本的网络通信知识
-- 有团队合作意识，根据要求进行开发
 
 > 查看[贡献指南](/CONTRIBUTING.md)
 
@@ -50,4 +48,4 @@ Codemao API 项目由编程猫社区用户发起，旨在为广大训练师提�
 - 仍然处于编写过程中，并不包含全部 API
 - 文档本身可能存在一些错误
 
-您的任何宝贵意见都可以通过[邮件（contact@codemao.work）](mailto:contact@codemao.work)反馈，如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
+欢迎您在评论区反馈问题。如果您会使用 Git，可以直接向本文档代码仓库发送 pull 请求（快捷操作：点击文档顶部的编辑文档链接）。
