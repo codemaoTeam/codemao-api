@@ -64,7 +64,6 @@
 
 ### work_label_list
 
-item
 
 |    key    |   value   |  type  |
 | :--------: | :--------: | :----: |
