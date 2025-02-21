@@ -2,7 +2,7 @@
 
 !> 这个 API 文档正在编写中，请勿使用
 
-> 获取作品信息
+> 获取作品信息  
 > `/creation-tools/v1/works/<work_id>` `GET`
 
 ## 返回内容
