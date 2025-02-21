@@ -31,6 +31,7 @@
   - [发布作品](/work/publish.md)
   - [取消发布作品](/work/unpublish.md)
   - [作品信息](/work/details.md)
+  - [举报作品](/work/report.md)
   - [作品继承树](/work/tree.md)
   - [作品源码](/work/source-code.md)
 - 论坛
