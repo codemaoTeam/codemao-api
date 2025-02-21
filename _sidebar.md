@@ -51,6 +51,7 @@
   - [修改信息](/workshop/update.md)
   - [工作室信息](/workshop/details.md)
   - [成员](/workshop/users.md)
+  - [作品信息](/workshop/works.md)
   - [添加作品](/workshop/contribute-work.md)
   - [删除作品](/workshop/remove-work.md)
   - [申请加入](/workshop/apply-join.md)
