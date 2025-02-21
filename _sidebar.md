@@ -14,6 +14,7 @@
   - [收藏作品列表](/user/collection-work-list.md)
   - [关注列表](/user/follow-list.md)
   - [粉丝列表](/user/fan-list.md)
+  - [关注用户](/user/follow.md)
   - [随机昵称](/user/random-nickname.md)
   - [验证手机号](/user/check-phone-number.md)
   - [所有认证相关内容](/user/all-about-auth.md)
