@@ -8,9 +8,7 @@ function plugin(hook, vm) {
 
 [:memo:编辑文档](${editUrl})
 
-${markdown}
-
-> 更新于 {docsify-updated}`;
+${markdown}`;
 
     return newContent;
   });
